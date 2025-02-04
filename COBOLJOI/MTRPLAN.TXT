@@ -1,0 +1,5 @@
+smartmeter0 Sarah                                             DrEvilDarkEnergy                                  DarkPLan
+smartmeter1 Peter                                             TheGreenCo                                        GreenPlan
+smartmeter2 Charlie                                           DrEvilDarkEnergy                                  DarkPLan
+smartmeter3 Andrea                                            PowerForEveryOne                                  EveryBodyPlan
+smartmeter4 Alex                                              TheGreenCo                                        GreenPlan
